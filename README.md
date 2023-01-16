@@ -6,6 +6,6 @@ Universitas : Universitas Lambung Mangkurat
 Fakultas : Teknik
 Prodi : Teknologi Informasi
 
-This project link : 
+This project link : https://github.com/Mohizuki/Test-magang-hasnur-programmer-batch-4-naufal
 
-Owner :
+Owner : https://github.com/Mohizuki/
