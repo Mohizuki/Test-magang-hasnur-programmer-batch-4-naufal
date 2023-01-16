@@ -88,7 +88,6 @@
 					</div>
 					<div>
                         <p style="text-align:center; padding-top:10px; color:gray;">Don't have account? <a href="register.php" style="text-align:center; padding-top:10px; color:red;">Register Here</a></p>
-						<h5 style="text-align:center; padding-top:10px; color:gray;">untuk list akun scroll kebawah</h5>
 					</div>
 				</form>
 			</div>
