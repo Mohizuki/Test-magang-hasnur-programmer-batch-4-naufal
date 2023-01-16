@@ -1,10 +1,10 @@
-Test magang hasnur programmer
-Nama : Muhammad Naufal Furqan
-Daerah : Barabai, Kalimantan selatan
-NIM : 2010817210011
-Universitas : Universitas Lambung Mangkurat
-Fakultas : Teknik
-Prodi : Teknologi Informasi
+Test magang hasnur programmer <br>
+Nama : Muhammad Naufal Furqan <br>
+Daerah : Barabai, Kalimantan selatan <br>
+NIM : 2010817210011 <br>
+Universitas : Universitas Lambung Mangkurat<br>
+Fakultas : Teknik<br>
+Prodi : Teknologi Informasi<br>
 
 This project link : https://github.com/Mohizuki/Test-magang-hasnur-programmer-batch-4-naufal
 
