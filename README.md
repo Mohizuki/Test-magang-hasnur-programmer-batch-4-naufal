@@ -9,3 +9,5 @@ Prodi : Teknologi Informasi
 This project link : https://github.com/Mohizuki/Test-magang-hasnur-programmer-batch-4-naufal
 
 Owner : https://github.com/Mohizuki/
+
+Untuk langkah-langkah atau penjelasan fitur tersedia didalam pdf yang dilampirkan
